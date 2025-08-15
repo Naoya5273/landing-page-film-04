@@ -77,6 +77,11 @@ The optimized build will be in the `dist/` folder (or your configured output).
 
 ## 📁 Project Structure
 
+---
+
+## 📁 Project Structure
+
+.
 ├── Dev-01
     ├── ALL_Preview.jpg
     ├── README.md
