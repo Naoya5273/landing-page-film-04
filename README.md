@@ -80,7 +80,7 @@ The optimized build will be in the `dist/` folder (or your configured output).
 ---
 
 ## 📁 Project Structure
-
+```
 .
 ├── Dev-01
     ├── ALL_Preview.jpg
@@ -132,6 +132,7 @@ The optimized build will be in the `dist/` folder (or your configured output).
     │   └── index.js
 └── videos
     └── Thai_start-screen_03.mp4
+```
 
 ---
 
